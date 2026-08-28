@@ -1,0 +1,8 @@
+# Internal planning files stay local-only (public repo ships the plugin)
+/STATUS.md
+/CURRICULUM-OUTLINE.md
+tmp/
+.worktrees/
+*.env
+*.env.*
+.DS_Store

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "edge-ai-academy",
+  "description": "Training tools for Edge AI consultants.",
+  "owner": {
+    "name": "Alex Martin",
+    "email": "alex@edge-fund.io"
+  },
+  "plugins": [
+    {
+      "name": "edgeai",
+      "description": "Edge AI Academy: the adaptive, mastery-based training system that takes a new Edge AI hire from zero to Edge AI Certified, inside Claude Code.",
+      "source": "./plugins/edgeai",
+      "category": "learning"
+    }
+  ]
+}

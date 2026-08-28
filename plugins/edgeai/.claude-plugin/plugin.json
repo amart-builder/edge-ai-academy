@@ -1,0 +1,10 @@
+{
+  "name": "edgeai",
+  "description": "Edge AI Academy: the adaptive, mastery-based training system every new Edge AI consultant completes on their own, entirely inside Claude Code. It places you, builds a personalized path, and teaches with proven learning science (mastery learning, active recall, spaced repetition, deliberate practice) until you are Edge AI Certified. Built for smart, non-technical new hires.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alex Martin",
+    "email": "alex@edge-fund.io"
+  },
+  "keywords": ["learning", "education", "onboarding", "consulting", "curriculum", "adaptive", "mastery"]
+}
